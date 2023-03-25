@@ -1,0 +1,90 @@
+@charset "utf-8";
+div header h1 {
+    color: #BFAB71;
+    font-style: normal;
+    font-weight: 200;
+    text-align: center;
+    text-shadow: 0px 0px;
+}
+.container {
+    width: 862px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #124B5B;
+	
+}
+main article h3 {
+    color: #BFAB71;
+    font-size: large;
+    text-align: center;
+    text-decoration: overline;
+    -webkit-box-shadow: 0px 0px;
+    box-shadow: 0px 0px;
+}
+main article p {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-weight: 200;
+    text-align: left;
+	  color: #BFAB71;
+}
+.container footer h3 {
+    color: #BFAB71;
+    text-align: center;
+    text-decoration: overline;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+body div header {
+	 color: #BFAB71;
+	 font-style: normal;
+    font-weight: 300;
+}
+
+
+div header h2 {
+    color: #BFAB71;
+    font-style: normal;
+    font-weight: 200;
+    text-shadow: 0px 0px;
+    background-color: #113B1F;
+    text-align: center;
+    background-clip: padding-box;
+    padding-left: 8px;
+    margin-left: 300px;
+    margin-right: 356px;
+    border-radius: 247px;
+}
+nav nav a:link {
+    text-align: center;
+    color: #BFAB71;
+    text-decoration: none;
+}
+nav nav a:visited {
+    color: #E4BEBE;
+}
+footer a:link {
+	 text-align: center;
+    color: #BFAB71;
+    text-decoration: none;
+}
+footer a:visited {
+	 color: #E4BEBE;
+}
+
+
+
+
+nav nav a:hover {
+    text-decoration: underline;
+    color: #C6F5F6;
+}
+footer a:hover {
+	text-decoration: underline;
+    color: #C6F5F6;
+}
